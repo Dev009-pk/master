@@ -1,0 +1,4 @@
+2022-06-18T17:22:35+00:00 CRITICAL syntax error, unexpected '5' (T_LNUMBER), expecting ')' in C:\xampp\htdocs\e2mtest\wp-content\themes\OceanWPChild\functions.php on line 127
+
+2022-06-18T18:37:33+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\e2mtest\wp-content\themes\OceanWPChild\template\cust-temp.php on line 48
+
